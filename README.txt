@@ -4,6 +4,11 @@ Student Number: 101231795
 Here is the link to the demonstration video:
 <INSERT LINK HERE> 
 
+Files to note:
+  A3Q1-master > README.txt
+  A3Q1-master > createDB.sql
+  A3Q1-master > src > main > java > Main.java
+
 To run the program:
   0. Download the code from Github by going to the link, clicking "<> Code" > "Download ZIP". Extract the files from the zip. 
 Part 1 - setting up the database:
