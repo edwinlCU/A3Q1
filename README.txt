@@ -4,7 +4,7 @@ Student Number: 101231795
 Here is the link to the demonstration video:
 https://www.youtube.com/watch?v=TSMeSqiIL0E 
 
-Files to note:
+Files of interest:
   A3Q1-master > README.txt
   A3Q1-master > createDB.sql
   A3Q1-master > src > main > java > Main.java
