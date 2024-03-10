@@ -15,8 +15,8 @@ Part 1 - setting up the database:
   6. Run the file by clicking Execute/Refresh
 Part 2 - compiling and running the program:
   7. Open the IntelliJ IDE
-  8. Open the A3Q1 repository in the IDE
-  9. Go to A3Q1 > src > main > java > Main.java
+  8. Open the A3Q1-master repository in the IDE
+  9. Go to A3Q1-master > src > main > java > Main.java
   10. Press the green play button on line 7 next to "public class Main {", then press "Run 'Main.main()'". Alternatively, press Ctrl + Shift + F10
   11. The program will now run in the console, so follow the text prompts to test the program
 
