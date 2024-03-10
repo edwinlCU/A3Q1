@@ -2,7 +2,7 @@ Name: Edwin Lau
 Student Number: 101231795
 
 Here is the link to the demonstration video:
-<INSERT LINK HERE> 
+https://www.youtube.com/watch?v=TSMeSqiIL0E 
 
 Files to note:
   A3Q1-master > README.txt
